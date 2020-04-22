@@ -18,12 +18,12 @@ JS Vanilla
 JS + Jquery
 
 13. [SquaresGrid](https://giampaolo1.github.io/js-jq-grigliaquadrati/)
-14. [Carousel](https://giampaolo1.github.io/js-jq-carousel/)
+14. [CarouselRepsss](https://giampaolo1.github.io/js-jq-carousel/)
 
 JS + AJAX
 
 15. [SquaresGrid2](https://giampaolo1.github.io/js-jq-ajax-grigliaquad/)
-16. [APImusic](https://giampaolo1.github.io/js-jq-ajax-api-musica/)
+16. [APImusicRepsss](https://giampaolo1.github.io/js-jq-ajax-api-musica/)
 17. [Calendar](https://giampaolo1.github.io/ajax-ex-calendar/)
 
 OTHERS
