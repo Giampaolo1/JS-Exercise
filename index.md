@@ -1,6 +1,6 @@
 ## JS Exercises List
 
-JS Vanilla
+JS Vanilla (Under style review)
 
 1. [TicketFareCalc](https://giampaolo1.github.io/js-biglietto-treno/)
 2. [SurnameList](https://giampaolo1.github.io/js-lista-cognomi/)
