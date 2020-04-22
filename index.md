@@ -4,16 +4,16 @@ JS Vanilla
 
 1. [PwdGen](https://giampaolo1.github.io/js-pwdgen-wannabe/)
 2. [Ticket Fare Calculator](https://giampaolo1.github.io/js-biglietto-treno/)
-3. [Mail Gen](https://giampaolo1.github.io/js-mail-dadi/)
-4. [Dice](https://giampaolo1.github.io/js-mail-dadi/)
+3. [MailGen Repo](https://giampaolo1.github.io/js-mail-dadi/)
+4. [Dice Repo](https://giampaolo1.github.io/js-mail-dadi/)
 5. [Surname List](https://giampaolo1.github.io/js-lista-cognomi/)
 6. [FizzBuzz](https://giampaolo1.github.io/js-fizzbuzz/)
-7. [Palindrome](https://giampaolo1.github.io/js-paliedispari/)
-8. [Odd or Even](https://giampaolo1.github.io/js-paliedispari/)
+7. [Palindrome Repo](https://giampaolo1.github.io/js-paliedispari/)
+8. [Odd or Even Repo](https://giampaolo1.github.io/js-paliedispari/)
 9. [Minefield](https://giampaolo1.github.io/js-campominato/)
 10. [Obj Student](https://giampaolo1.github.io/js-oggetti-studenti/)
-11. [Simon](https://giampaolo1.github.io/js-simon-sexcolor/)
-12. [SexColor](https://giampaolo1.github.io/js-simon-sexcolor/)
+11. [Simon Repo](https://giampaolo1.github.io/js-simon-sexcolor/)
+12. [SexColor Repo](https://giampaolo1.github.io/js-simon-sexcolor/)
 
 JS + Jquery
 
