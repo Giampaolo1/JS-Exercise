@@ -3,7 +3,7 @@
 JS Vanilla
 
 1. [PwdGen](https://giampaolo1.github.io/js-pwdgen-wannabe/)
-2. [Ticket Fare Calculator](https://giampaolo1.github.io/js-js-biglietto-treno/)
+2. [Ticket Fare Calculator](https://giampaolo1.github.io/js-biglietto-treno/)
 3. [Mail Gen](https://giampaolo1.github.io/js-mail-dadi/)
 4. [Dice](https://giampaolo1.github.io/js-mail-dadi/)
 5. [Surname List](https://giampaolo1.github.io/js-lista-cognomi/)
