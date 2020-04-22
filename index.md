@@ -10,7 +10,7 @@ JS Vanilla
 JS + Jquery
 
 1. [SquaresGrid](https://giampaolo1.github.io/js-jq-grigliaquadrati/)
-2. [CarouselRepsss](https://giampaolo1.github.io/js-jq-carousel/)
+2. [Carousel](https://giampaolo1.github.io/js-jq-carousel/)
 
 JS + AJAX
 
