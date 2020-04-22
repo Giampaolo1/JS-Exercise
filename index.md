@@ -1,6 +1,6 @@
 ## JS Exercises List
 
-JS Vanilla (Under style review)
+JS Vanilla (Under Restyling)
 
 1. [TicketFareCalc](https://giampaolo1.github.io/js-biglietto-treno/)
 2. [SurnameList](https://giampaolo1.github.io/js-lista-cognomi/)
@@ -14,7 +14,7 @@ JS + Jquery
 3. [HambMenu](https://giampaolo1.github.io/js-jq-hamburger/)
 
 
-JS + AJAX
+JS + Ajax
 
 1. [SquaresGridAjax](https://giampaolo1.github.io/js-jq-ajax-grigliaquad/)
 2. [OddEvenAjax](https://giampaolo1.github.io/js-ajax-oddeven/)
