@@ -17,5 +17,5 @@ JS + Jquery
 JS + AJAX
 
 1. [SquaresGridAjax](https://giampaolo1.github.io/js-jq-ajax-grigliaquad/)
-2. [APImusicRepsss](https://giampaolo1.github.io/js-jq-ajax-api-musica/)
+2. [APImusic](https://giampaolo1.github.io/js-jq-ajax-api-musica/)
 3. [OddEvenAjax](https://giampaolo1.github.io//)
