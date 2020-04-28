@@ -3,7 +3,7 @@
 JS Vanilla (Under Restyling)
 
 1. [TicketFareCalc](https://giampaolo1.github.io/js-biglietto-treno/)
-2. [SurnameList](https://giampaolo1.github.io/js-lista-cognomi/)
+2. [SurnamesList](https://giampaolo1.github.io/js-lista-cognomi/)
 3. [FizzBuzz](https://giampaolo1.github.io/js-fizzbuzz/)
 4. [Minefield](https://giampaolo1.github.io/js-campominato/)
 
